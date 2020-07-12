@@ -22,9 +22,9 @@ In *IWE terminal*:
 
 In *IWE gui*:  
 - enter **path**, **url**, **extension** you want  
-- press **Prepare** button
-- press **Download** button
-- after download is finished, you can change parameters, press **Prepare** button, **Download** button to start downloading something else you want
+- click **Prepare** button
+- click **Download** button
+- after download is finished, you can change parameters, click **Prepare** button, click **Download** button to start downloading something else you want
 
 ## Known bugs and problems
 
