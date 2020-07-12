@@ -1,6 +1,6 @@
 # IWE
 
-IWE (/ˈaɪvɪ/) (aka I Want Everything) is program developed for downloading multiple files from server (as showed in **[picture 1](###picture-1)**). It will download everything from given url (including all subfolders). It should be able to handle any webpage and download everything linked on it (this is not tested) but since it follows links it could download something you didnt expect to. 
+IWE (/ˈaɪvɪ/) (aka I Want Everything) is program developed for downloading multiple files from server/HTTP directory (as showed in **[picture 1](###picture-1)**). It will download everything from given url (including all subfolders). It should be able to handle any webpage and download everything linked on it (this is not tested) but since it follows links it could download something you didnt expect to. 
 
 The application asks you for:  
 - *path* where you want to save files you are trying to download (path can be ommited and then application will download files to default path) 
@@ -29,6 +29,10 @@ In *IWE gui*:
 ## Known bugs and problems
 
 GUI version of application gets laggy (unresponsive) during downloading (it doesnt stop downloading or anything, it just gets laggy).
+
+## Version
+
+0.1
 
 ## Contact
 
